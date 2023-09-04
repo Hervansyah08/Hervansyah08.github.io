@@ -1,0 +1,31 @@
+body {
+  max-height: 100vh;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  /* background-color: #e2edff; */
+  background-color: lightblue;
+}
+
+#projects {
+  background-color: #add8e6;
+}
+
+section {
+  padding-top: 5rem;
+  /* ini agar navbarnya tidak menutupi judul tiap bab */
+}
+#projects {
+  position: relative;
+  bottom: 0.5rem;
+}
+/* agar menutup garis putih dibawah gelombang */
+footer {
+  padding: 0.5rem;
+  /* agar ukuran footer agak besar */
+}
+footer p {
+  margin-top: 1rem;
+  /* agar tulisan ke bawah tengah */
+}
