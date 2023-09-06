@@ -40,3 +40,8 @@ footer p {
   /* agar menghilangkan padding di gambar gallery */
   /*  > * artinya apapun yang didalamnya setelah row */
 }
+
+.nav-link:hover {
+  color: white;
+}
+/* ini agar ketika kursor diarahkan ke navbar ada efeknya */
