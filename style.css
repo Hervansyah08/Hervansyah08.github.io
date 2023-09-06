@@ -29,3 +29,14 @@ footer p {
   margin-top: 1rem;
   /* agar tulisan ke bawah tengah */
 }
+
+.gallery-img {
+  width: 100%;
+  /* agar gambar memenuhi kolom kalau di kecilkan/responsive */
+}
+
+#gallery .row > * {
+  padding: 0;
+  /* agar menghilangkan padding di gambar gallery */
+  /*  > * artinya apapun yang didalamnya setelah row */
+}
