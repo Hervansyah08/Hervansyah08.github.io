@@ -30,12 +30,12 @@ footer p {
   /* agar tulisan ke bawah tengah */
 }
 
-.gallery-img {
+.hobby-img {
   width: 100%;
   /* agar gambar memenuhi kolom kalau di kecilkan/responsive */
 }
 
-#gallery .row > * {
+#hobby .row > * {
   padding: 0;
   /* agar menghilangkan padding di gambar gallery */
   /*  > * artinya apapun yang didalamnya setelah row */
